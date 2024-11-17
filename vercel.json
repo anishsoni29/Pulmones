@@ -1,0 +1,16 @@
+{
+    "projects": [
+      {
+        "src": "client/",
+        "buildCommand": "npm run build",
+        "outputDirectory": "client/build",
+        "framework": "react"
+      },
+      {
+        "src": "server/",
+        "functionsDirectory": "server/api",
+        "framework": "node"
+      }
+    ]
+  }
+  
