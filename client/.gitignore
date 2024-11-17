@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React build folder
+build/
+dist/
+
+# Environment variables
+.env
+.env.*.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Optional files for IDEs
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.swo
